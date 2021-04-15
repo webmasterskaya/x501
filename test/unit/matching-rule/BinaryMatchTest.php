@@ -3,7 +3,7 @@
 declare(strict_types = 1);
 
 use PHPUnit\Framework\TestCase;
-use Sop\X501\MatchingRule\BinaryMatch;
+use Webmasterskaya\X501\MatchingRule\BinaryMatch;
 
 /**
  * @group matching-rule

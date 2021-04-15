@@ -2,10 +2,10 @@
 
 declare(strict_types = 1);
 
-namespace Sop\X501\ASN1\AttributeValue;
+namespace Webmasterskaya\X501\ASN1\AttributeValue;
 
-use Sop\X501\ASN1\AttributeType;
-use Sop\X501\ASN1\AttributeValue\Feature\PrintableStringValue;
+use Webmasterskaya\X501\ASN1\AttributeType;
+use Webmasterskaya\X501\ASN1\AttributeValue\Feature\PrintableStringValue;
 
 /**
  * 'countryName' attribute value.

@@ -2,15 +2,15 @@
 
 declare(strict_types = 1);
 
-namespace Sop\X501\ASN1\AttributeValue\Feature;
+namespace Webmasterskaya\X501\ASN1\AttributeValue\Feature;
 
 use Sop\ASN1\Element;
 use Sop\ASN1\Type\Primitive\PrintableString;
 use Sop\ASN1\Type\UnspecifiedType;
-use Sop\X501\ASN1\AttributeValue\AttributeValue;
-use Sop\X501\DN\DNParser;
-use Sop\X501\MatchingRule\CaseIgnoreMatch;
-use Sop\X501\MatchingRule\MatchingRule;
+use Webmasterskaya\X501\ASN1\AttributeValue\AttributeValue;
+use Webmasterskaya\X501\DN\DNParser;
+use Webmasterskaya\X501\MatchingRule\CaseIgnoreMatch;
+use Webmasterskaya\X501\MatchingRule\MatchingRule;
 
 /**
  * Base class for attribute values having *PrintableString* syntax.

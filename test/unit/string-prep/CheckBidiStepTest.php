@@ -3,7 +3,7 @@
 declare(strict_types = 1);
 
 use PHPUnit\Framework\TestCase;
-use Sop\X501\StringPrep\CheckBidiStep;
+use Webmasterskaya\X501\StringPrep\CheckBidiStep;
 
 /**
  * @group string-prep

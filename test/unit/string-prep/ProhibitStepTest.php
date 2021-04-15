@@ -3,7 +3,7 @@
 declare(strict_types = 1);
 
 use PHPUnit\Framework\TestCase;
-use Sop\X501\StringPrep\ProhibitStep;
+use Webmasterskaya\X501\StringPrep\ProhibitStep;
 
 /**
  * @group string-prep

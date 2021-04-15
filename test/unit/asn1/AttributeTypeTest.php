@@ -4,7 +4,7 @@ declare(strict_types = 1);
 
 use PHPUnit\Framework\TestCase;
 use Sop\ASN1\Type\Primitive\ObjectIdentifier;
-use Sop\X501\ASN1\AttributeType;
+use Webmasterskaya\X501\ASN1\AttributeType;
 
 /**
  * @group asn1

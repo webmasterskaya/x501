@@ -3,12 +3,12 @@
 declare(strict_types = 1);
 
 use PHPUnit\Framework\TestCase;
-use Sop\X501\ASN1\Attribute;
-use Sop\X501\ASN1\AttributeValue\CommonNameValue;
-use Sop\X501\ASN1\AttributeValue\DescriptionValue;
-use Sop\X501\ASN1\AttributeValue\NameValue;
-use Sop\X501\ASN1\Collection\AttributeCollection;
-use Sop\X501\ASN1\Collection\SequenceOfAttributes;
+use Webmasterskaya\X501\ASN1\Attribute;
+use Webmasterskaya\X501\ASN1\AttributeValue\CommonNameValue;
+use Webmasterskaya\X501\ASN1\AttributeValue\DescriptionValue;
+use Webmasterskaya\X501\ASN1\AttributeValue\NameValue;
+use Webmasterskaya\X501\ASN1\Collection\AttributeCollection;
+use Webmasterskaya\X501\ASN1\Collection\SequenceOfAttributes;
 
 /**
  * @group asn1

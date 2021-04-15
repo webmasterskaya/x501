@@ -2,11 +2,11 @@
 
 declare(strict_types = 1);
 
-namespace Sop\X501\ASN1;
+namespace Webmasterskaya\X501\ASN1;
 
 use Sop\ASN1\Type\Constructed\Set;
 use Sop\ASN1\Type\UnspecifiedType;
-use Sop\X501\ASN1\AttributeValue\AttributeValue;
+use Webmasterskaya\X501\ASN1\AttributeValue\AttributeValue;
 
 /**
  * Implements *RelativeDistinguishedName* ASN.1 type.

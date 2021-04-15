@@ -3,7 +3,7 @@
 declare(strict_types = 1);
 
 use PHPUnit\Framework\TestCase;
-use Sop\X501\ASN1\Name;
+use Webmasterskaya\X501\ASN1\Name;
 
 /**
  * @group dn

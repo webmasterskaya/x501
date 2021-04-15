@@ -4,7 +4,7 @@ declare(strict_types = 1);
 
 use PHPUnit\Framework\TestCase;
 use Sop\ASN1\Element;
-use Sop\X501\StringPrep\StringPreparer;
+use Webmasterskaya\X501\StringPrep\StringPreparer;
 
 /**
  * @group string-prep

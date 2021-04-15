@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace Sop\X501\ASN1;
+namespace Webmasterskaya\X501\ASN1;
 
 use Sop\ASN1\Element;
 use Sop\ASN1\Type\Primitive\ObjectIdentifier;

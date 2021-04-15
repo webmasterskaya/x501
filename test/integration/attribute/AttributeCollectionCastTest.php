@@ -3,10 +3,10 @@
 declare(strict_types = 1);
 
 use PHPUnit\Framework\TestCase;
-use Sop\X501\ASN1\Attribute;
-use Sop\X501\ASN1\AttributeValue\Feature\DirectoryString;
-use Sop\X501\ASN1\AttributeValue\NameValue;
-use Sop\X501\ASN1\Collection\SequenceOfAttributes;
+use Webmasterskaya\X501\ASN1\Attribute;
+use Webmasterskaya\X501\ASN1\AttributeValue\Feature\DirectoryString;
+use Webmasterskaya\X501\ASN1\AttributeValue\NameValue;
+use Webmasterskaya\X501\ASN1\Collection\SequenceOfAttributes;
 
 /**
  * @group attribute

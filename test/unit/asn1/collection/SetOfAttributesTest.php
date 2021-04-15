@@ -4,9 +4,9 @@ declare(strict_types = 1);
 
 use PHPUnit\Framework\TestCase;
 use Sop\ASN1\Type\Constructed\Set;
-use Sop\X501\ASN1\AttributeValue\DescriptionValue;
-use Sop\X501\ASN1\AttributeValue\NameValue;
-use Sop\X501\ASN1\Collection\SetOfAttributes;
+use Webmasterskaya\X501\ASN1\AttributeValue\DescriptionValue;
+use Webmasterskaya\X501\ASN1\AttributeValue\NameValue;
+use Webmasterskaya\X501\ASN1\Collection\SetOfAttributes;
 
 /**
  * @group asn1

@@ -2,13 +2,13 @@
 
 declare(strict_types = 1);
 
-namespace Sop\X501\ASN1\Collection;
+namespace Webmasterskaya\X501\ASN1\Collection;
 
 use Sop\ASN1\Type\Structure;
 use Sop\ASN1\Type\UnspecifiedType;
-use Sop\X501\ASN1\Attribute;
-use Sop\X501\ASN1\AttributeType;
-use Sop\X501\ASN1\AttributeValue\AttributeValue;
+use Webmasterskaya\X501\ASN1\Attribute;
+use Webmasterskaya\X501\ASN1\AttributeType;
+use Webmasterskaya\X501\ASN1\AttributeValue\AttributeValue;
 
 /**
  * Base class for X.501 attribute containers.

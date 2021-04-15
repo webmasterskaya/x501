@@ -6,8 +6,8 @@ use PHPUnit\Framework\TestCase;
 use Sop\ASN1\Element;
 use Sop\ASN1\Type\Primitive\NullType;
 use Sop\ASN1\Type\UnspecifiedType;
-use Sop\X501\ASN1\AttributeValue\CommonNameValue;
-use Sop\X501\ASN1\AttributeValue\Feature\DirectoryString;
+use Webmasterskaya\X501\ASN1\AttributeValue\CommonNameValue;
+use Webmasterskaya\X501\ASN1\AttributeValue\Feature\DirectoryString;
 
 /**
  * @group asn1

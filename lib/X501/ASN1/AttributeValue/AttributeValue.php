@@ -2,14 +2,14 @@
 
 declare(strict_types = 1);
 
-namespace Sop\X501\ASN1\AttributeValue;
+namespace Webmasterskaya\X501\ASN1\AttributeValue;
 
 use Sop\ASN1\Element;
 use Sop\ASN1\Type\UnspecifiedType;
-use Sop\X501\ASN1\Attribute;
-use Sop\X501\ASN1\AttributeType;
-use Sop\X501\ASN1\AttributeTypeAndValue;
-use Sop\X501\MatchingRule\MatchingRule;
+use Webmasterskaya\X501\ASN1\Attribute;
+use Webmasterskaya\X501\ASN1\AttributeType;
+use Webmasterskaya\X501\ASN1\AttributeTypeAndValue;
+use Webmasterskaya\X501\MatchingRule\MatchingRule;
 
 /**
  * Base class for attribute values.

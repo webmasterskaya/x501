@@ -2,13 +2,13 @@
 
 declare(strict_types = 1);
 
-namespace Sop\X501\ASN1\AttributeValue;
+namespace Webmasterskaya\X501\ASN1\AttributeValue;
 
 use Sop\ASN1\Element;
-use Sop\X501\DN\DNParser;
-use Sop\X501\MatchingRule\BinaryMatch;
-use Sop\X501\MatchingRule\MatchingRule;
-use Sop\X501\StringPrep\TranscodeStep;
+use Webmasterskaya\X501\DN\DNParser;
+use Webmasterskaya\X501\MatchingRule\BinaryMatch;
+use Webmasterskaya\X501\MatchingRule\MatchingRule;
+use Webmasterskaya\X501\StringPrep\TranscodeStep;
 
 /**
  * Class to hold ASN.1 structure of an unimplemented attribute value.

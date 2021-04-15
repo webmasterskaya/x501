@@ -2,13 +2,13 @@
 
 declare(strict_types = 1);
 
-namespace Sop\X501\ASN1;
+namespace Webmasterskaya\X501\ASN1;
 
 use Sop\ASN1\Element;
 use Sop\ASN1\Type\Constructed\Sequence;
 use Sop\ASN1\Type\UnspecifiedType;
-use Sop\X501\ASN1\AttributeValue\AttributeValue;
-use Sop\X501\DN\DNParser;
+use Webmasterskaya\X501\ASN1\AttributeValue\AttributeValue;
+use Webmasterskaya\X501\DN\DNParser;
 
 /**
  * Implements *Name* ASN.1 type.

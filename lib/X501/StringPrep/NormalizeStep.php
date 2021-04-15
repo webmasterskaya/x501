@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace Sop\X501\StringPrep;
+namespace Webmasterskaya\X501\StringPrep;
 
 /**
  * Implements 'Normalize' step of the Internationalized String Preparation

@@ -2,10 +2,10 @@
 
 declare(strict_types = 1);
 
-namespace Sop\X501\ASN1\Collection;
+namespace Webmasterskaya\X501\ASN1\Collection;
 
 use Sop\ASN1\Type\Constructed\Set;
-use Sop\X501\ASN1\Attribute;
+use Webmasterskaya\X501\ASN1\Attribute;
 
 /**
  * Implements *Attributes* ASN.1 type as a *SET OF Attribute*.

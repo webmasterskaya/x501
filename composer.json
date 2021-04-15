@@ -1,7 +1,7 @@
 {
-    "name": "sop/x501",
+    "name": "webmasterskaya/x501",
     "description": "A PHP library for X.501 ASN.1 types, X.520 attributes and DN parsing.",
-    "homepage": "https://github.com/sop/x501",
+    "homepage": "https://github.com/webmasterskaya/x501",
     "license": "MIT",
     "type": "library",
     "keywords": [
@@ -19,6 +19,11 @@
             "name": "Joni Eskelinen",
             "email": "jonieske@gmail.com",
             "role": "Developer"
+        },
+        {
+            "name": "Artem Vasilev",
+            "email": "kern.usr@gmail.com",
+            "role": "Developer"
         }
     ],
     "require": {
@@ -32,7 +37,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Sop\\X501\\": "lib/X501/"
+            "Webmasterskaya\\X501\\": "lib/X501/"
         }
     }
 }

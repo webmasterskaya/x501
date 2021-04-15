@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace Sop\X501\DN;
+namespace Webmasterskaya\X501\DN;
 
 use Sop\ASN1\Element;
 use Sop\ASN1\Exception\DecodeException;

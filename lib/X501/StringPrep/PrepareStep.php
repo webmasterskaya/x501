@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace Sop\X501\StringPrep;
+namespace Webmasterskaya\X501\StringPrep;
 
 /**
  * Interface for string preparation steps of Internationalized String

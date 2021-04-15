@@ -5,21 +5,21 @@ declare(strict_types = 1);
 use PHPUnit\Framework\TestCase;
 use Sop\ASN1\Type\StringType;
 use Sop\ASN1\Type\UnspecifiedType;
-use Sop\X501\ASN1\AttributeType;
-use Sop\X501\ASN1\AttributeValue\AttributeValue;
-use Sop\X501\ASN1\AttributeValue\CommonNameValue;
-use Sop\X501\ASN1\AttributeValue\CountryNameValue;
-use Sop\X501\ASN1\AttributeValue\DescriptionValue;
-use Sop\X501\ASN1\AttributeValue\GivenNameValue;
-use Sop\X501\ASN1\AttributeValue\LocalityNameValue;
-use Sop\X501\ASN1\AttributeValue\NameValue;
-use Sop\X501\ASN1\AttributeValue\OrganizationalUnitNameValue;
-use Sop\X501\ASN1\AttributeValue\OrganizationNameValue;
-use Sop\X501\ASN1\AttributeValue\PseudonymValue;
-use Sop\X501\ASN1\AttributeValue\SerialNumberValue;
-use Sop\X501\ASN1\AttributeValue\StateOrProvinceNameValue;
-use Sop\X501\ASN1\AttributeValue\SurnameValue;
-use Sop\X501\ASN1\AttributeValue\TitleValue;
+use Webmasterskaya\X501\ASN1\AttributeType;
+use Webmasterskaya\X501\ASN1\AttributeValue\AttributeValue;
+use Webmasterskaya\X501\ASN1\AttributeValue\CommonNameValue;
+use Webmasterskaya\X501\ASN1\AttributeValue\CountryNameValue;
+use Webmasterskaya\X501\ASN1\AttributeValue\DescriptionValue;
+use Webmasterskaya\X501\ASN1\AttributeValue\GivenNameValue;
+use Webmasterskaya\X501\ASN1\AttributeValue\LocalityNameValue;
+use Webmasterskaya\X501\ASN1\AttributeValue\NameValue;
+use Webmasterskaya\X501\ASN1\AttributeValue\OrganizationalUnitNameValue;
+use Webmasterskaya\X501\ASN1\AttributeValue\OrganizationNameValue;
+use Webmasterskaya\X501\ASN1\AttributeValue\PseudonymValue;
+use Webmasterskaya\X501\ASN1\AttributeValue\SerialNumberValue;
+use Webmasterskaya\X501\ASN1\AttributeValue\StateOrProvinceNameValue;
+use Webmasterskaya\X501\ASN1\AttributeValue\SurnameValue;
+use Webmasterskaya\X501\ASN1\AttributeValue\TitleValue;
 
 /**
  * @group asn1
